@@ -1,3 +1,5 @@
+// Total = (Total of more than one hundred(Inteiro)) * 100 + (Total of less than one hundred)
+
 var a = p662.value;
 var b = p664.value;
 
