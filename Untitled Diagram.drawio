@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T18:41:51.310Z" agent="5.0 (Windows)" etag="C06C6SqTb8PUnQahKwsM" version="15.7.4" type="github"><diagram id="IOhgOP0AoQl0OoX_YjUL" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-16T18:48:53.840Z" agent="5.0 (Windows)" etag="_DgWSjBOTAUZW7opMooV" version="15.7.4" type="github">
+  <diagram id="IOhgOP0AoQl0OoX_YjUL" name="Page-1">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gQCr92PTAHPKesp8NR7a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="gQCr92PTAHPKesp8NR7a-2" target="gQCr92PTAHPKesp8NR7a-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-2" value="Transmissor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="115" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gQCr92PTAHPKesp8NR7a-3" target="gQCr92PTAHPKesp8NR7a-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-3" value="Sensor de pulso Acoplado ao Medidor" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gQCr92PTAHPKesp8NR7a-7" target="gQCr92PTAHPKesp8NR7a-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-7" value="Concentrador" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="70" width="165" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="gQCr92PTAHPKesp8NR7a-9" target="gQCr92PTAHPKesp8NR7a-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-9" value="Transmissor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="215" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gQCr92PTAHPKesp8NR7a-10" target="gQCr92PTAHPKesp8NR7a-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-10" value="Sensor de pulso Acoplado ao Medidor" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.097;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="gQCr92PTAHPKesp8NR7a-11" target="gQCr92PTAHPKesp8NR7a-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-11" value="Transmissor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="325" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gQCr92PTAHPKesp8NR7a-12" target="gQCr92PTAHPKesp8NR7a-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-12" value="Sensor de pulso Acoplado ao Medidor" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.5" y="460" as="sourcePoint" />
+            <mxPoint x="79.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.5" y="460" as="sourcePoint" />
+            <mxPoint x="259.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-16" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-17" value="N até 32" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-18" value="N até 32" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-19" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-20" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-26" value="Sinal Via Rádio até 2 Km" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-27" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="150" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-30" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="75" width="100.29" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-31" value="~2m ( fio )" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-33" value="~2m ( fio )" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-34" value="Saída de Sinal RS485" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="575" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gQCr92PTAHPKesp8NR7a-37" target="gQCr92PTAHPKesp8NR7a-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-37" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="100" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gQCr92PTAHPKesp8NR7a-41" target="gQCr92PTAHPKesp8NR7a-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-41" value="&lt;div&gt;Conversor RS485 para USB&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="180" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gQCr92PTAHPKesp8NR7a-44" value="&lt;div&gt;Leitura&lt;/div&gt;&amp;nbsp;dos dados via Protocolo Modbus Serial e dados salvo pelo banco MySQL pelo Supervisorio (Software)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;spacingTop=-20;" parent="1" vertex="1">
+          <mxGeometry x="750" y="170" width="90.29" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Hnlja22mzZZspYBMY8o2-1" value="Transmissor envia os dados a cada &lt;b&gt;30min&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hnlja22mzZZspYBMY8o2-2" value="Concentrador recebe os dados de cada Transmissor e mostra via Display e também envia os dados via RS485" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="195" width="140" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
